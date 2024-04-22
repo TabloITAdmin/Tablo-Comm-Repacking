@@ -1,0 +1,16 @@
+input.largerCheckbox {
+    transform: scale(2.5);
+}
+
+body {
+background-color: rgb(60, 138, 143);
+}
+.content {
+text-align: center;
+font-size: 25px;
+color: white;
+max-width: 800px;
+margin: auto;
+background: rgb(55, 79, 97);
+padding: 10px;
+}
